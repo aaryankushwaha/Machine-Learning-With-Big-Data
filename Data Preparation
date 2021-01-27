@@ -1,0 +1,128 @@
+# Machine-Learning-With-Big-Data
+1.
+Question 1
+Which of the following is NOT a data quality issue?
+
+                                                                                                             1 / 1 point
+Missing values
+
+
+Duplicate data
+
+
+**Scaled data8**
+
+
+Inconsistent data
+
+2.
+Question 2
+Imputing missing data means to
+
+                                                                                                             1 / 1 point
+replace missing values with outliers.
+
+
+**replace missing values with something reasonable.**
+
+
+merge samples with missing values.
+
+
+drop samples with missing values.
+
+3.
+Question 3
+A data sample with values that are considerably different than the rest of the other data samples in the dataset is called an/a _____________.
+
+                                                                                                           1 / 1 point
+Noise
+
+
+Inconsistent data
+
+
+**Outlier**
+
+
+Invalid data
+
+4.
+Question 4
+Which one of the following examples illustrates the use of domain knowledge to address a data quality issue?
+
+                                                                                                       1 / 1 point
+**Merge duplicate records while retaining relevant data**
+
+
+Drop samples with missing values
+
+
+Simply discard the samples that lie significantly outside the distribution of your data
+
+
+None of these
+
+5.
+Question 5
+Which of the following is NOT an example of feature selection?
+
+                                                                                                      1 / 1 point
+Adding an in-state feature based on an applicant's home state.
+
+
+Removing a feature with a lot of missing values.
+
+
+**Replacing a missing value with the variable mean.**
+
+
+Re-formatting an address field into separate street address, city, state, and zip code fields.
+
+5.
+Question 5
+Which of the following is NOT an example of feature selection?
+
+                                                                                                        1 / 1 point
+Adding an in-state feature based on an applicant's home state.
+
+
+Removing a feature with a lot of missing values.
+
+
+Replacing a missing value with the variable mean.
+
+
+**Re-formatting an address field into separate street address, city, state, and zip code fields.**
+
+7.
+Question 7
+The mean value and the standard deviation of a zero-normalized feature are
+
+                                                                                                       1 / 1 point
+mean = 1 and standard deviation = 1
+
+
+mean = 1 and standard deviation = 0
+
+
+**mean = 0 and standard deviation = 1**
+
+
+mean = 0 and standard deviation = 0
+
+8.
+Question 8
+Which of the following is NOT true about PCA?
+
+                                                                                                     1 / 1 point
+**PCA is a dimensionality reduction technique that removes a feature that is very correlated with another feature.**
+
+
+PC1, the first principal component , captures the largest amount of variance in the data along a single dimension.
+
+
+PCA stands for principal component analysis
+
+
+PC1 and PC2, the first and second principal components, respectively, are always orthogonal to each other.
