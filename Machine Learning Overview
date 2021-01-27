@@ -1,0 +1,122 @@
+#Machine Learning Overview
+1.
+Question 1
+What is NOT machine learning?
+                                                                                                                    1 / 1 point
+**Explicit, step-by-step programming**
+
+
+Discover hidden patterns
+
+
+Data-driven decisions
+
+
+Learning from data
+2.
+Question 2
+Which of the following is NOT a category of machine learning?
+
+                                                                                                                      1 / 1 point
+**Algorithm Prediction**
+
+
+Association Analysis
+
+
+Cluster Analysis
+
+
+Classification
+
+
+Regression
+3.
+Question 3
+Which categories of machine learning techniques are supervised? 
+
+                                                                                                                      1 / 1 point
+regression and association analysis
+
+
+cluster analysis and association analysis
+
+
+**classification and regression**
+
+
+classification and cluster analysis
+ 
+ 4.
+Question 4
+In unsupervised approaches,
+
+                                                                                                                        1 / 1 point
+the target is unlabeled.
+
+
+**the target is unknown or unavailable.**
+
+
+the target is what is being predicted.
+
+
+the target is provided.
+
+5.
+Question 5
+What is the sequence of the steps in the machine learning process?
+
+                                                                                                                          1 / 1 point
+Prepare -> Acquire -> Analyze -> Report -> Act
+
+
+**Acquire -> Prepare -> Analyze -> Report -> Act**
+
+
+Prepare -> Acquire -> Analyze -> Act -> Report
+
+
+Acquire -> Prepare -> Analyze -> Act -> Report
+
+6.
+Question 6
+Are the steps in the machine learning process apply-once or iterative? 
+
+                                                                                                                         1 / 1 point
+Apply-once
+
+
+**Iterative**
+
+
+The first two steps, Acquire and Prepare, are apply-once, and the other steps are iterative.
+
+7.
+Question 7
+Phase 2 of CRISP-DM is Data Understanding.  In this phase,
+
+                                                                                                                          1 / 1 point
+**we acquire as well as explore the data that is related to the problem.**
+
+
+we define the problem or opportunity to be addressed.
+
+
+we prepare the data for analysis.
+
+8.
+Question 8
+What is the main difference between KNIME and Spark MLlib?
+
+                                                                                                                           1 / 1 point
+KNIME originated in Germany, while Spark MLlib was created in California, USA.
+
+
+KNIME requires programming, while Spark MLlib does not.
+
+
+**KNIME is a graphical user interface-based machine learning tool, while Spark MLlib provides a programming-based distributed platform for scalable machine learning algorithms.**
+
+
+KNIME requires programming in Java, while Spark MLlib requires programming in Python.
